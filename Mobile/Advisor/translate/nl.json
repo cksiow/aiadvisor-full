@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Adviseur",
+      "history": "Geschiedenis",
+      "assistants": "Assistenten",
+      "language": "Taal"
+    },
+    "advisor": {
+      "clipboard": "Klembord",
+      "copy": "Bericht gekopieerd",
+      "type": "Typ je vraag...",
+      "newMessage": "Nieuw Bericht",
+      "messageValidation1": "Gelieve een vraag in te voeren om door te gaan.",
+      "sampleContext1": "Ik dien als jouw loopbaanadviseur, en ik sta klaar om je te helpen bij het navigeren door jouw professionele reis. Voel je vrij om vragen te stellen over een van de volgende onderwerpen door erop te klikken:",
+      "sampleContext2": "Ik ben jouw adviseur voor gezondheid en welzijn, en ik ben hier om je welzijn te ondersteunen. Aarzel niet om mij vragen te stellen over de volgende gebieden door erop te klikken:",
+      "sampleContext3": "Als jouw Huisdieradviseur ben ik hier om begeleiding te bieden bij alles wat te maken heeft met jouw harige vrienden. Voel je vrij om contact op te nemen met vragen over de volgende onderwerpen door erop te klikken:",
+      "sample1Question1": "Hoe kan ik effectief netwerken om mijn carrière te bevorderen?",
+      "sample1Question2": "Wat is de beste manier om een balans te vinden tussen werk en privé?",
+      "sample1Question3": "Hoe kan ik een baan vinden waar ik gepassioneerd over ben?",
+      "sample2Question1": "Hoe kan ik een gezond dieet en voedingsplan handhaven?",
+      "sample2Question2": "Wat zijn effectieve strategieën voor het omgaan met stress en het bevorderen van mentaal welzijn?",
+      "sample2Question3": "Hoe kan ik beter slapen en mijn slaapkwaliteit verbeteren?",
+      "sample3Question1": "Hoe leer ik mijn nieuwe puppy of kitten zindelijk te worden?",
+      "sample3Question2": "Wat zijn de beste manieren om mijn huisdier te socialiseren en ervoor te zorgen dat ze goed met andere dieren omgaan?",
+      "sample3Question3": "Wat zijn de tekenen van ziekte of letsel bij mijn huisdier, en wanneer moet ik diergeneeskundige zorg zoeken?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Sleutelwoord om jouw persoonlijke assistent te genereren, zoals Technisch Consultant, Portfolioloog, Social Media Guru, Interieurontwerper.",
+      "messageValidation1": "Gelieve een sleutelwoord in te voeren om door te gaan."
+    },
+    "language": {},
+    "iap": {
+      "free": "Gratis tegoed",
+      "freeDescription": "Bekijk een beloningsvideo om tegoed te verdienen.",
+      "earn": "Verdiend tegoed",
+      "earnDescription": "Je kunt teruggaan om door te gaan met het stellen van vragen of even wachten op de beloningsvideo en meer verdienen.",
+      "freeLoadingDescription": "Je gratis tegoed komt eraan, blijf afgestemd..."
+    },
+    "askMore": "Stel Meer Vragen"
+  }
+}

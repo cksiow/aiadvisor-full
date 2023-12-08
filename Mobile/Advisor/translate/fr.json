@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Conseiller",
+      "history": "Histoire",
+      "assistants": "Assistantes",
+      "language": "Langue"
+    },
+    "advisor": {
+      "clipboard": "Presse-papiers",
+      "copy": "Message copié",
+      "type": "Entrez votre question...",
+      "newMessage": "Nouveau message",
+      "messageValidation1": "Veuillez entrer une question pour continuer.",
+      "sampleContext1": "Je suis votre conseiller de carrière et je suis là pour vous aider à naviguer dans votre parcours professionnel. N'hésitez pas à poser des questions sur les sujets suivants en cliquant dessus :",
+      "sampleContext2": "Je suis votre conseiller en santé et bien-être, et je suis là pour soutenir votre bien-être. N'hésitez pas à me poser des questions sur les domaines suivants en cliquant dessus :",
+      "sampleContext3": "En tant que conseiller pour vos animaux de compagnie, je suis là pour vous guider sur tout ce qui concerne vos amis à poils. N'hésitez pas à me contacter pour toute question sur les sujets suivants en cliquant dessus :",
+      "sample1Question1": "Comment puis-je développer efficacement mon réseau pour faire avancer ma carrière ?",
+      "sample1Question2": "Quelle est la meilleure façon d'atteindre un équilibre entre vie professionnelle et vie personnelle ?",
+      "sample1Question3": "Comment puis-je trouver un travail qui me passionne ?",
+      "sample2Question1": "Comment puis-je maintenir une alimentation saine et un plan nutritionnel ?",
+      "sample2Question2": "Quelles sont les stratégies efficaces pour gérer le stress et promouvoir le bien-être mental ?",
+      "sample2Question3": "Comment puis-je mieux dormir et améliorer la qualité de mon sommeil ?",
+      "sample3Question1": "Comment puis-je apprendre la propreté à mon nouveau chiot ou chaton ?",
+      "sample3Question2": "Quelles sont les meilleures façons de socialiser mon animal de compagnie et de m'assurer qu'il s'entende avec d'autres animaux ?",
+      "sample3Question3": "Quels sont les signes de maladie ou de blessure chez mon animal de compagnie, et quand devrais-je consulter un vétérinaire ?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Mot-clé utilisé pour générer votre assistant personnel, tel que Consultant en technologie, Stratège de portefeuille, Expert des médias sociaux, Designer d'intérieur.",
+      "messageValidation1": "Veuillez entrer un mot-clé pour continuer."
+    },
+    "language": {},
+    "iap": {
+      "free": "Crédit gratuit",
+      "freeDescription": "Regardez une vidéo de récompense pour gagner des crédits.",
+      "earn": "Crédit gagné",
+      "earnDescription": "Vous pouvez revenir pour continuer à poser des questions ou attendre un moment pour la vidéo de récompense et gagner plus.",
+      "freeLoadingDescription": "Votre crédit gratuit arrive, restez à l'écoute..."
+    },
+    "askMore": "Poser plus de questions"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Penasihat",
+      "history": "Sejarah",
+      "assistants": "Asisten",
+      "language": "Bahasa"
+    },
+    "advisor": {
+      "clipboard": "Papan klip",
+      "copy": "Pesan disalin",
+      "type": "Ketik pertanyaan Anda...",
+      "newMessage": "Pesan Baru",
+      "messageValidation1": "Silakan masukkan pertanyaan untuk melanjutkan.",
+      "sampleContext1": "Saya bertugas sebagai penasihat karier Anda, dan saya di sini untuk membantu Anda menavigasi perjalanan profesional Anda. Jangan ragu untuk menanyakan tentang topik berikut dengan mengkliknya:",
+      "sampleContext2": "Saya adalah Penasihat Kesehatan dan Kesejahteraan Anda, dan saya di sini untuk mendukung kesejahteraan Anda. Jangan ragu untuk bertanya kepada saya tentang area berikut dengan mengkliknya:",
+      "sampleContext3": "Sebagai Penasihat Hewan Peliharaan Anda, saya di sini untuk memberikan panduan tentang semua hal yang berkaitan dengan teman-teman berbulu Anda. Silakan hubungi saya dengan pertanyaan apa pun tentang topik berikut dengan mengkliknya:",
+      "sample1Question1": "Bagaimana cara efektif menjalin jaringan untuk memajukan karier saya?",
+      "sample1Question2": "Apa cara terbaik untuk mencapai keseimbangan antara kerja dan hidup?",
+      "sample1Question3": "Bagaimana cara menemukan pekerjaan yang saya minati?",
+      "sample2Question1": "Bagaimana cara menjaga pola makan dan rencana nutrisi yang sehat?",
+      "sample2Question2": "Apa strategi efektif untuk mengelola stres dan meningkatkan kesejahteraan mental?",
+      "sample2Question3": "Bagaimana cara tidur lebih baik dan meningkatkan kualitas tidur saya?",
+      "sample3Question1": "Bagaimana cara melatih kucing atau anjing kecil saya untuk buang air?",
+      "sample3Question2": "Apa cara terbaik untuk sosialisasi hewan peliharaan saya dan memastikan mereka dapat berbaur dengan hewan lain?",
+      "sample3Question3": "Apa tanda-tanda penyakit atau cedera pada hewan peliharaan saya, dan kapan saya harus mencari perawatan hewan?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Kata kunci untuk membuat asisten pribadi Anda seperti Konsultan Teknologi, Strategi Portofolio, Guru Media Sosial, Desainer Interior.",
+      "messageValidation1": "Silakan masukkan kata kunci untuk melanjutkan."
+    },
+    "language": {},
+    "iap": {
+      "free": "Kredit Gratis",
+      "freeDescription": "Tonton video reward untuk mendapatkan kredit.",
+      "earn": "Kredit yang Diperoleh",
+      "earnDescription": "Anda dapat kembali untuk terus bertanya atau menunggu sebentar untuk video hadiah dan mendapatkan lebih banyak",
+      "freeLoadingDescription": "Kredit gratis Anda akan datang, tetaplah terhubung..."
+    },
+    "askMore": "Tanyakan Lebih Banyak Pertanyaan"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Tagapayo",
+      "history": "Kasaysayan",
+      "assistants": "Mga Tagapagtaguyod",
+      "language": "Wika"
+    },
+    "advisor": {
+      "clipboard": "Klipyap",
+      "copy": "Nakopya ang mensahe",
+      "type": "I-type ang iyong tanong...",
+      "newMessage": "Bagong Mensahe",
+      "messageValidation1": "Mangyaring maglagay ng tanong para magpatuloy.",
+      "sampleContext1": "Ako ang iyong tagapayo sa karera, at narito ako upang matulungan kang mag-navigate sa iyong propesyonal na paglalakbay. Huwag mag-atubiling magtanong tungkol sa anumang mga paksa sa pamamagitan ng pag-click sa mga ito:",
+      "sampleContext2": "Ako ang iyong Tagapayo sa Kalusugan at Wellness, at narito ako upang suportahan ang iyong kalagayan. Mangyaring huwag mag-atubiling itanong ang anumang mga katanungan tungkol sa mga sumusunod sa pamamagitan ng pag-click sa kanila:",
+      "sampleContext3": "Bilang iyong Tagapayo sa Alagang Hayop, narito ako upang magbigay ng gabay sa lahat ng bagay na may kinalaman sa iyong mga malambot na kaibigan. Huwag mag-atubiling makipag-ugnay sa anumang mga katanungan tungkol sa mga sumusunod sa pamamagitan ng pag-click sa kanila:",
+      "sample1Question1": "Paano ako makakapag-network nang epektibo para mapalago ang aking karera?",
+      "sample1Question2": "Ano ang pinakamahusay na paraan para makamit ang balanseng buhay-trabaho?",
+      "sample1Question3": "Paano ko mahanap ang isang trabaho na aking pagsisikapan?",
+      "sample2Question1": "Paano ko mapanatili ang malusog na diyeta at plano ng nutrisyon?",
+      "sample2Question2": "Ano ang mga epektibong estratehiya para sa pangangasiwa ng stress at pagsusulong ng kagalingan ng isip?",
+      "sample2Question3": "Paano ako makakakuha ng mas magandang tulog at mapabuti ang kalidad ng aking pagtulog?",
+      "sample3Question1": "Paano ko puwedeng turuan ang aking bagong tuta o pusa na mag-CR?",
+      "sample3Question2": "Ano ang pinakamahusay na paraan para palakasin ang pakikipag-ugnay ng aking alagang hayop at siguruhing magkasundo sila sa ibang hayop?",
+      "sample3Question3": "Ano ang mga palatandaan ng sakit o pinsala sa aking alagang hayop, at kailan ko dapat hanapin ang pangangalaga ng beterinaryo?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Keyword na ginagamit sa pagbuo ng iyong personal na tagapayo tulad ng Tech Consultant, Portfolio Strategist, Social Media Guru, Interior Designer.",
+      "messageValidation1": "Mangyaring maglagay ng keyword para magpatuloy."
+    },
+    "language": {},
+    "iap": {
+      "free": "Libreng Kredito",
+      "freeDescription": "Manood ng reward video para kumita ng kredito.",
+      "earn": "Kredito na Natanggap",
+      "earnDescription": "Maaari kang bumalik para magpatuloy sa pagtatanong ng mga tanong o maghintay ng saglit para sa reward video at kumita ng mas marami",
+      "freeLoadingDescription": "Ang iyong libreng kredito ay parating na, manatili ka sa tono..."
+    },
+    "askMore": "Magtanong ng Karagdagang mga Tanong"
+  }
+}

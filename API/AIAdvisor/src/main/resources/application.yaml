@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: '@activatedProperties@'
+  jpa:
+    hibernate:
+      naming:
+        #resolve the model name when got uppercase it will convert to underscore _
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+
+server:
+  tomcat:
+    keep-alive-timeout: 300000
+
+openai:
+  key: 'your-own-open-api-key'
+  keyword-description-assistant-id: 'asst_nGAexKKBxDMSCirIK5F4VvyH'
+
+ai-advisor:
+  system-key: 'your-system-key-for-important-api-protect'

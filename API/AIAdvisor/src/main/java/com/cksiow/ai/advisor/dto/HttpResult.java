@@ -1,0 +1,20 @@
+package com.cksiow.ai.advisor.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
+import lombok.experimental.SuperBuilder;
+
+import javax.persistence.MappedSuperclass;
+
+@NoArgsConstructor
+@AllArgsConstructor
+@ToString(callSuper = true)
+@Data
+@SuperBuilder
+@MappedSuperclass
+public class HttpResult {
+    Integer status;
+    String content;
+}

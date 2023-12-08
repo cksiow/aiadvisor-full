@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Comhairleoir",
+      "history": "Stair",
+      "assistants": "Cúntóirí",
+      "language": "Teanga"
+    },
+    "advisor": {
+      "clipboard": "Clóbhuailte",
+      "copy": "Teachtaireacht cóipeáilte",
+      "type": "Cuir do cheist...",
+      "newMessage": "Teachtaireacht Nua",
+      "messageValidation1": "Tabhair isteach do cheist chun leanúint ar aghaidh, le do thoil.",
+      "sampleContext1": "Is é mo roghnóir ghairme agus tá mé anseo chun cabhrú leat do thuras gairme a stiúradh. Ná héirigh aon dabht ort ceist a chur maidir le ceisteanna ar bith den sórt sin trí cliceáil orthu:",
+      "sampleContext2": "Is é mo chomhairleoir Sláinte agus Leas a thabhairt duit, agus tá mé anseo chun tacú le do shláinte. Ná bíodh eagla ort ceist a chur orm faoi ábhair cosúil leis seo trí cliceáil orthu:",
+      "sampleContext3": "Mar do Chomhairleoir Páirteach, tá mé anseo le comhairle a thabhairt faoi gach rud a bhaineann le do chairde fionnuar. Ná bíodh eagla ort teagmháil a dhéanamh liom maidir le ceisteanna faoi na hábhair seo trí chliceáil orthu:",
+      "sample1Question1": "Conas is féidir liom líonra éifeachtach a chruthú chun mo ghairm a chur chun cinn?",
+      "sample1Question2": "Cad é an bealach is fearr chun cothrom na Féinne a bhaint amach idir obair agus saol pearsanta?",
+      "sample1Question3": "Conas is féidir liom post a aimsiú a bhfuil mé paiseanta faoi?",
+      "sample2Question1": "Conas is féidir liom cothú córas bia sláintiúil agus plean aiste bia?",
+      "sample2Question2": "Céard iad na straitéisí éifeachtacha chun strus a bhainistiú agus an tsláinte intinne a fheabhsú?",
+      "sample2Question3": "Conas is féidir liom codladh níos fearr a fháil agus caighdeán mo chodlata a fheabhsú?",
+      "sample3Question1": "Conas is féidir liom mo ghadhar nó mo chat a oiliúint chun a chodladh amuigh?",
+      "sample3Question2": "Cad iad na bealaí is fearr le m'ainmhithe a sóisialú agus a chinntiú go bhfuil siad cairdiúil le héin-seantréithe eile?",
+      "sample3Question3": "Cad iad na comharthaí ar ghalair nó gortuithe ina gceantar, agus nuair a ba cheart dom cuardach cóireála feirmeoireachta a dhéanamh?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Focal eochair a úsáid le do chúntóir pearsanta a ghiniúint, cosúil le Comhairleoir Teicneolaíochta, Straitéiseoir Portfóilio, Saineolaí Meán Sóisialta, dearthóir Interiúr.",
+      "messageValidation1": "Tabhair isteach focal eochair chun leanúint ar aghaidh, le do thoil."
+    },
+    "language": {},
+    "iap": {
+      "free": "creidmheasa saor",
+      "freeDescription": "Féach ar físeán duaiseanna chun creidmheasa a bhaint amach.",
+      "earn": "Creidmheasa ainmnithe",
+      "earnDescription": "Is féidir leat filleadh chun leanúint ar aghaidh ag cur ceisteanna nó fanacht tamall ar fhíseán duaiseanna agus tuilleadh a dhéanamh.",
+      "freeLoadingDescription": "Tá do chreidmheasa saor ag teacht, fan teagmháil..."
+    },
+    "askMore": "Fiafraigh Níos Mó Ceisteanna"
+  }
+}

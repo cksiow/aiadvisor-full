@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Consilier",
+      "history": "Istoric",
+      "assistants": "Asistenți",
+      "language": "Limba"
+    },
+    "advisor": {
+      "clipboard": "Clipboard",
+      "copy": "Mesaj copiat",
+      "type": "Introduceți întrebarea dvs...",
+      "newMessage": "Mesaj Nou",
+      "messageValidation1": "Vă rugăm să introduceți o întrebare pentru a continua.",
+      "sampleContext1": "Sunt consilierul dvs. de carieră și sunt aici pentru a vă ajuta să vă navigați călătoria profesională. Nu ezitați să întrebați despre următoarele subiecte dând clic pe ele:",
+      "sampleContext2": "Sunt consilierul dvs. de sănătate și bunăstare și sunt aici pentru a vă sprijini starea de bine. Nu ezitați să mă întrebați despre următoarele domenii dând clic pe ele:",
+      "sampleContext3": "În calitate de consilier al dvs. pentru animalele de companie, sunt aici să vă ofer îndrumări cu privire la tot ce ține de prietenii voștri blănoși. Nu ezitați să mă contactați cu întrebări despre următoarele subiecte dând clic pe ele:",
+      "sample1Question1": "Cum pot să construiesc o rețea eficientă pentru a avansa în cariera mea?",
+      "sample1Question2": "Care este cea mai bună modalitate de a atinge un echilibru între viața profesională și cea personală?",
+      "sample1Question3": "Cum pot să găsesc un loc de muncă care să mă pasioneze?",
+      "sample2Question1": "Cum pot să mențin o dietă sănătoasă și un plan nutrițional?",
+      "sample2Question2": "Care sunt strategiile eficiente pentru gestionarea stresului și promovarea stării de bine mentală?",
+      "sample2Question3": "Cum pot să dorm mai bine și să îmbunătățesc calitatea somnului?",
+      "sample3Question1": "Cum îi pot învăța pe noul meu cățel sau pisoi să folosească litiera?",
+      "sample3Question2": "Care sunt cele mai bune moduri de a socializa animalul meu de companie și de a mă asigura că se înțelege cu alți animale?",
+      "sample3Question3": "Care sunt semnele bolii sau leziunii la animalul meu de companie și când ar trebui să caut îngrijiri veterinare?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Cuvânt cheie utilizat pentru generarea asistentului personal, cum ar fi Consultant Tehnologic, Strateg de Portofoliu, Expert în Social Media, Designer de Interior.",
+      "messageValidation1": "Vă rugăm să introduceți un cuvânt cheie pentru a continua."
+    },
+    "language": {},
+    "iap": {
+      "free": "credit gratuit",
+      "freeDescription": "Uitați un videoclip de recompensă pentru a câștiga credit.",
+      "earn": "Credit câștigat",
+      "earnDescription": "Puteți reveni pentru a continua să puneți întrebări sau să așteptați puțin pentru videoclipul de recompensă și să câștigați mai mult.",
+      "freeLoadingDescription": "Creditul tău gratuit vine, rămâi conectat..."
+    },
+    "askMore": "Puneți Mai Multe Întrebări"
+  }
+}

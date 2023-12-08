@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Penasihat",
+      "history": "Sejarah",
+      "assistants": "Pembantu",
+      "language": "Bahasa"
+    },
+    "advisor": {
+      "clipboard": "Papan keratan",
+      "copy": "Mesej disalin",
+      "type": "Taip soalan anda...",
+      "newMessage": "Mesej Baru",
+      "messageValidation1": "Sila taip soalan untuk meneruskan.",
+      "sampleContext1": "Saya berperanan sebagai penasihat kerjaya anda, dan saya di sini untuk membantu anda menavigasi perjalanan profesional anda. Jangan ragu untuk bertanya tentang topik berikut dengan mengklik:",
+      "sampleContext2": "Saya penasihat Kesihatan dan Kesejahteraan anda, dan saya di sini untuk menyokong kesejahteraan anda. Jangan ragu untuk bertanya tentang apa-apa pertanyaan mengenai bidang-bidang berikut dengan mengklik:",
+      "sampleContext3": "Sebagai Penasihat Haiwan Peliharaan anda, saya di sini untuk memberikan panduan mengenai segala yang berkaitan dengan rakan berbulu anda. Jangan segan untuk bertanya tentang topik berikut dengan mengklik:",
+      "sample1Question1": "Bagaimana saya boleh menjalinkan rangkaian secara berkesan untuk memajukan kerjaya saya?",
+      "sample1Question2": "Apakah cara terbaik untuk mencapai keseimbangan kerja-hidup?",
+      "sample1Question3": "Bagaimana saya boleh mencari pekerjaan yang saya passion?",
+      "sample2Question1": "Bagaimana saya boleh mengekalkan diet yang sihat dan rancangan pemakanan yang baik?",
+      "sample2Question2": "Apakah strategi yang berkesan untuk menguruskan tekanan dan meningkatkan kesejahteraan mental?",
+      "sample2Question3": "Bagaimana saya boleh tidur lebih baik dan meningkatkan kualiti tidur saya?",
+      "sample3Question1": "Bagaimana saya boleh melatih anak anjing atau anak kucing baru saya untuk ke tandas?",
+      "sample3Question2": "Apakah cara terbaik untuk sosialisasi haiwan peliharaan saya dan memastikan mereka dapat berbaik dengan haiwan lain?",
+      "sample3Question3": "Apakah tanda-tanda penyakit atau kecederaan pada haiwan peliharaan saya, dan bila saya perlu mencari rawatan veterinari?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Kata kunci digunakan untuk menjana pembantu peribadi anda seperti Pemulih Teknologi, Strategis Portofolio, Pakar Media Sosial, Pereka Dalaman.",
+      "messageValidation1": "Sila taip kata kunci untuk meneruskan."
+    },
+    "language": {},
+    "iap": {
+      "free": "kredit percuma",
+      "freeDescription": "Tonton video ganjaran untuk mendapatkan kredit.",
+      "earn": "Kredit yang diperolehi",
+      "earnDescription": "Anda boleh kembali untuk terus bertanya atau tunggu sebentar untuk video ganjaran dan dapatkan lebih banyak.",
+      "freeLoadingDescription": "Kredit percuma anda sedang datang, kekal terhubung..."
+    },
+    "askMore": "Tanyakan Lebih Banyak"
+  }
+}

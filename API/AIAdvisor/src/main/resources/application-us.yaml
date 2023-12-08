@@ -1,0 +1,16 @@
+server:
+  servlet:
+    contextPath: /aiadvisor
+
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://serverip:3306/aiadvisor?useTimezone=true&serverTimezone=UTC
+    username: root
+    password:
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+  main:
+    allow-circular-references: true

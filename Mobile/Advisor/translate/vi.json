@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Tư vấn",
+      "history": "Lịch sử",
+      "assistants": "Trợ lý",
+      "language": "Ngôn ngữ"
+    },
+    "advisor": {
+      "clipboard": "Bảng ghi",
+      "copy": "Đã sao chép tin nhắn",
+      "type": "Nhập câu hỏi của bạn...",
+      "newMessage": "Tin Nhắn Mới",
+      "messageValidation1": "Vui lòng nhập câu hỏi để tiếp tục.",
+      "sampleContext1": "Tôi là người tư vấn sự nghiệp của bạn, và tôi ở đây để giúp bạn điều hướng trong hành trình chuyên nghiệp của mình. Hãy thoải mái hỏi về bất kỳ chủ đề nào bằng cách nhấp vào chúng:",
+      "sampleContext2": "Tôi là Tư vấn Sức khỏe và Sự thịnh vượng của bạn, và tôi ở đây để hỗ trợ sức khỏe của bạn. Đừng ngần ngại hỏi tôi bất kỳ câu hỏi nào về các lĩnh vực sau bằng cách nhấp vào chúng:",
+      "sampleContext3": "Là Tư vấn Về Thú Cưng của bạn, tôi ở đây để cung cấp hướng dẫn về mọi thứ liên quan đến bạn bè bốn chân của bạn. Hãy thoải mái liên hệ với bất kỳ câu hỏi nào về các chủ đề sau bằng cách nhấp vào chúng:",
+      "sample1Question1": "Làm thế nào để tăng cường mạng lưới hiệu quả để phát triển sự nghiệp của tôi?",
+      "sample1Question2": "Cách nào là tốt nhất để đạt được sự cân bằng giữa công việc và cuộc sống?",
+      "sample1Question3": "Làm thế nào để tìm việc làm mà tôi đam mê?",
+      "sample2Question1": "Làm thế nào để duy trì chế độ ăn uống và kế hoạch dinh dưỡng lành mạnh?",
+      "sample2Question2": "Những chiến lược hiệu quả nào để quản lý stress và thúc đẩy sức khỏe tâm thần?",
+      "sample2Question3": "Làm thế nào để có giấc ngủ tốt hơn và cải thiện chất lượng giấc ngủ của tôi?",
+      "sample3Question1": "Làm thế nào để dạy cho chó con hoặc mèo con đi tiểu đúng chỗ?",
+      "sample3Question2": "Những cách tốt nhất để xã hội hóa thú cưng của tôi và đảm bảo họ hòa hợp với các động vật khác?",
+      "sample3Question3": "Dấu hiệu của bệnh hoặc chấn thương ở thú cưng của tôi là gì, và khi nào tôi nên tìm sự chăm sóc thú y?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Từ khóa để tạo trợ lý cá nhân của bạn như Chuyên gia Công nghệ, Chiến lược Portofolio, Chuyên gia Truyền thông Xã hội, Nhà thiết kế Nội thất.",
+      "messageValidation1": "Vui lòng nhập từ khóa để tiếp tục."
+    },
+    "language": {},
+    "iap": {
+      "free": "Kredit Miễn phí",
+      "freeDescription": "Xem video thưởng để kiếm được các khoản tín dụng.",
+      "earn": "Kredit Đã Kiếm Được",
+      "earnDescription": "Bạn có thể quay lại để tiếp tục đặt câu hỏi hoặc đợi một lúc để xem video thưởng và kiếm thêm",
+      "freeLoadingDescription": "Khoản tín dụng miễn phí của bạn đang đến, hãy ở đó..."
+    },
+    "askMore": "Hỏi Thêm Câu Hỏi"
+  }
+}

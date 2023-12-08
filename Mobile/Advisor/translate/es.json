@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Asesor",
+      "history": "Historia",
+      "assistants": "Asistentes",
+      "language": "Idioma"
+    },
+    "advisor": {
+      "clipboard": "Portapapeles",
+      "copy": "Mensaje copiado",
+      "type": "Ingresa tu pregunta...",
+      "newMessage": "Nuevo Mensaje",
+      "messageValidation1": "Por favor, ingresa una pregunta para continuar.",
+      "sampleContext1": "Soy tu asesor de carrera y estoy aquí para ayudarte a navegar tu trayectoria profesional. No dudes en preguntar sobre alguno de los siguientes temas haciendo clic en ellos:",
+      "sampleContext2": "Soy tu asesor de salud y bienestar y estoy aquí para apoyar tu bienestar. No dudes en hacerme preguntas sobre las siguientes áreas haciendo clic en ellas:",
+      "sampleContext3": "Como tu asesor de mascotas, estoy aquí para brindar orientación sobre todo lo relacionado con tus amigos peludos. No dudes en consultarme sobre los siguientes temas haciendo clic en ellos:",
+      "sample1Question1": "¿Cómo puedo hacer networking de manera efectiva para avanzar en mi carrera?",
+      "sample1Question2": "¿Cuál es la mejor manera de lograr un equilibrio entre el trabajo y la vida personal?",
+      "sample1Question3": "¿Cómo puedo encontrar un trabajo que me apasione?",
+      "sample2Question1": "¿Cómo puedo mantener una dieta y plan nutricional saludables?",
+      "sample2Question2": "¿Cuáles son las estrategias efectivas para manejar el estrés y promover el bienestar mental?",
+      "sample2Question3": "¿Cómo puedo dormir mejor y mejorar la calidad de mi sueño?",
+      "sample3Question1": "¿Cómo puedo enseñarle a mi nueva cachorro o gatito a usar el baño?",
+      "sample3Question2": "¿Cuáles son las mejores formas de socializar a mi mascota y asegurarme de que se lleve bien con otros animales?",
+      "sample3Question3": "¿Cuáles son los signos de enfermedad o lesión en mi mascota y cuándo debo buscar atención veterinaria?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Palabra clave utilizada para generar tu asistente personal, como Consultor Tecnológico, Estratega de Portafolio, Experto en Redes Sociales, Diseñador de Interiores.",
+      "messageValidation1": "Por favor, ingresa una palabra clave para continuar."
+    },
+    "language": {},
+    "iap": {
+      "free": "crédito gratuito",
+      "freeDescription": "Mira un video de recompensa para ganar crédito.",
+      "earn": "Crédito ganado",
+      "earnDescription": "Puedes volver para seguir haciendo preguntas o esperar un tiempo para ver el video de recompensa y ganar más.",
+      "freeLoadingDescription": "Tu crédito gratuito está llegando, mantente atento..."
+    },
+    "askMore": "Haz Más Preguntas"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Berater",
+      "history": "Geschichte",
+      "assistants": "Assistenten",
+      "language": "Sprache"
+    },
+    "advisor": {
+      "clipboard": "Zwischenablage",
+      "copy": "Nachricht kopiert",
+      "type": "Geben Sie Ihre Frage ein...",
+      "newMessage": "Neue Nachricht",
+      "messageValidation1": "Bitte geben Sie eine Frage ein, um fortzufahren.",
+      "sampleContext1": "Ich fungiere als Ihr Karriereberater und stehe Ihnen zur Verfügung, um Sie bei Ihrer beruflichen Reise zu unterstützen. Zögern Sie nicht, zu den folgenden Themen nachzufragen, indem Sie darauf klicken:",
+      "sampleContext2": "Ich bin Ihr Gesundheits- und Wellnessberater und stehe Ihnen zur Unterstützung Ihres Wohlbefindens zur Verfügung. Zögern Sie nicht, mich zu allem in den folgenden Bereichen zu befragen, indem Sie darauf klicken:",
+      "sampleContext3": "Als Ihr Tierberater stehe ich Ihnen zur Verfügung, um Ihnen bei allen Fragen rund um Ihre pelzigen Freunde zu helfen. Zögern Sie nicht, sich mit Anfragen zu den folgenden Themen an mich zu wenden, indem Sie darauf klicken:",
+      "sample1Question1": "Wie kann ich effektiv Netzwerken, um meine Karriere voranzutreiben?",
+      "sample1Question2": "Was ist der beste Weg, eine Work-Life-Balance zu erreichen?",
+      "sample1Question3": "Wie finde ich einen Job, für den ich brenne?",
+      "sample2Question1": "Wie kann ich eine gesunde Ernährung und Ernährungsplanung aufrechterhalten?",
+      "sample2Question2": "Welche wirksamen Strategien gibt es zur Stressbewältigung und Förderung der mentalen Gesundheit?",
+      "sample2Question3": "Wie kann ich besser schlafen und meine Schlafqualität verbessern?",
+      "sample3Question1": "Wie bringe ich meinem neuen Welpen oder Kätzchen das Töpfchentraining bei?",
+      "sample3Question2": "Was sind die besten Möglichkeiten, mein Haustier zu sozialisieren und sicherzustellen, dass es sich gut mit anderen Tieren versteht?",
+      "sample3Question3": "Was sind die Anzeichen von Krankheit oder Verletzung bei meinem Haustier, und wann sollte ich tierärztliche Hilfe suchen?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Stichwort verwenden, um Ihren persönlichen Assistenten zu generieren, wie zum Beispiel Technologieberater, Portfoliostratege, Social Media Experte, Innenarchitekt.",
+      "messageValidation1": "Bitte geben Sie ein Stichwort ein, um fortzufahren."
+    },
+    "language": {},
+    "iap": {
+      "free": "Gratisguthaben",
+      "freeDescription": "Schauen Sie sich ein Belohnungsvideo an, um Guthaben zu verdienen.",
+      "earn": "Verdientes Guthaben",
+      "earnDescription": "Sie können zurückgehen, um weitere Fragen zu stellen, oder eine Weile auf das Belohnungsvideo warten und mehr verdienen.",
+      "freeLoadingDescription": "Dein Gratisguthaben kommt, bleib dran..."
+    },
+    "askMore": "Stellen Sie mehr Fragen"
+  }
+}

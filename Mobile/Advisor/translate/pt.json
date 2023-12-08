@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Consultor",
+      "history": "Histórico",
+      "assistants": "Assistentes",
+      "language": "Idioma"
+    },
+    "advisor": {
+      "clipboard": "Área de transferência",
+      "copy": "Mensagem copiada",
+      "type": "Digite sua pergunta...",
+      "newMessage": "Nova Mensagem",
+      "messageValidation1": "Por favor, digite uma pergunta para continuar.",
+      "sampleContext1": "Eu sou seu consultor de carreira e estou aqui para ajudá-lo a navegar em sua jornada profissional. Não hesite em perguntar sobre qualquer um dos seguintes tópicos clicando neles:",
+      "sampleContext2": "Eu sou seu consultor de saúde e bem-estar, e estou aqui para apoiar seu bem-estar. Por favor, não hesite em me fazer perguntas sobre as seguintes áreas clicando nelas:",
+      "sampleContext3": "Como seu consultor de animais de estimação, estou aqui para fornecer orientações sobre tudo relacionado aos seus amigos peludos. Sinta-se à vontade para fazer perguntas sobre os seguintes tópicos clicando neles:",
+      "sample1Question1": "Como posso fazer networking de forma eficaz para avançar em minha carreira?",
+      "sample1Question2": "Qual é a melhor maneira de alcançar um equilíbrio entre trabalho e vida pessoal?",
+      "sample1Question3": "Como posso encontrar um emprego que seja minha paixão?",
+      "sample2Question1": "Como posso manter uma dieta e plano nutricional saudáveis?",
+      "sample2Question2": "Quais são as estratégias eficazes para lidar com o estresse e promover o bem-estar mental?",
+      "sample2Question3": "Como posso dormir melhor e melhorar a qualidade do meu sono?",
+      "sample3Question1": "Como faço para treinar meu novo filhote ou gatinho a usar o banheiro?",
+      "sample3Question2": "Quais são as melhores maneiras de socializar meu animal de estimação e garantir que ele se dê bem com outros animais?",
+      "sample3Question3": "Quais são os sinais de doença ou lesão em meu animal de estimação e quando devo procurar atendimento veterinário?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Palavra-chave usada para gerar seu assistente pessoal, como Consultor Técnico, Estrategista de Portfólio, Especialista em Mídias Sociais, Designer de Interiores.",
+      "messageValidation1": "Por favor, digite uma palavra-chave para continuar."
+    },
+    "language": {},
+    "iap": {
+      "free": "crédito gratuito",
+      "freeDescription": "Assista a um vídeo de recompensa para ganhar créditos.",
+      "earn": "Crédito ganho",
+      "earnDescription": "Você pode voltar para continuar fazendo perguntas ou esperar um pouco pelo vídeo de recompensa e ganhar mais.",
+      "freeLoadingDescription": "Seu crédito gratuito está chegando, fique ligado..."
+    },
+    "askMore": "Faça Mais Perguntas"
+  }
+}

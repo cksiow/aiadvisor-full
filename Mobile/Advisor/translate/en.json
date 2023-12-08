@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Advisor",
+      "history": "History",
+      "assistants": "Assistants",
+      "language": "Language"
+    },
+    "advisor": {
+      "clipboard": "Clipboard",
+      "copy": "Message copied",
+      "type": "Type your question...",
+      "newMessage": "New Message",
+      "messageValidation1": "Please key in question to continue.",
+      "sampleContext1": "I serve as your career advisor, and I'm here to help you navigate your professional journey. Feel free to inquire about any of the following topics by click on them:",
+      "sampleContext2": "I'm your Health and Wellness Advisor, and I'm here to support your well-being. Please don't hesitate to ask me any questions about the following areas by click on them:",
+      "sampleContext3": "As your Pet Advisor, I'm here to provide guidance on all things related to your furry friends. Feel free to reach out with any inquiries about the following topics by click on them:",
+      "sample1Question1": "How can I effectively network to advance my career?",
+      "sample1Question2": "What is the best way to achieve a work-life balance?",
+      "sample1Question3": "How can I find a job that I'm passionate about?",
+      "sample2Question1": "How can I maintain a healthy diet and nutrition plan?",
+      "sample2Question2": "What are effective strategies for managing stress and promoting mental well-being?",
+      "sample2Question3": "How can I get better sleep and improve my sleep quality?",
+      "sample3Question1": "How do I potty train my new puppy or kitten?",
+      "sample3Question2": "What are the best ways to socialize my pet and ensure they get along with other animals?",
+      "sample3Question3": "What are the signs of illness or injury in my pet, and when should I seek veterinary care?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Keyword use to generating your personal assistant such as Tech Consultant, Portfolio Strategist, Social Media Guru, Interior Designer.",
+      "messageValidation1": "Please key in keyword to continue."
+    },
+    "language": {},
+    "iap": {
+      "free": "Free credit",
+      "freeDescription": "Watch a reward video to earn credit(s).",
+      "earn": "Credit earned",
+      "earnDescription": "You can go back to continue asking questions or wait a while for the reward vide and earn more",
+      "freeLoadingDescription": "Your free credit is coming, stay tune..."
+    },
+    "askMore": "Ask More Questions"
+  }
+}

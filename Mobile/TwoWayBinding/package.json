@@ -1,0 +1,13 @@
+{
+  "name": "react-native-twowaybinding",
+  "version": "1.0.0",
+  "description": "React Native components support easy two way binding",
+  "main": "index.js",
+  "private": true,
+  "keywords": [
+    "react-native",
+    "twowaybinding"
+  ],
+  "author": "cksiow",
+  "license": "MIT"
+}

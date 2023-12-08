@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "顾问",
+      "history": "历史",
+      "assistants": "助手",
+      "language": "语言"
+    },
+    "advisor": {
+      "clipboard": "剪贴板",
+      "copy": "已复制消息",
+      "type": "输入您的问题...",
+      "newMessage": "新消息",
+      "messageValidation1": "请输入问题以继续。。。",
+      "sampleContext1": "我是您的职业顾问，我在这里帮助您规划您的职业生涯。随时通过点击以下任何主题向我咨询：",
+      "sampleContext2": "我是您的健康和健康顾问，我在这里支持您的健康。请随时通过点击以下任何主题向我提问：",
+      "sampleContext3": "作为您的宠物顾问，我在这里为您的毛茸茸朋友提供指导。随时通过点击以下主题之一向我提出任何疑问：",
+      "sample1Question1": "如何有效地进行人际网络以推动我的职业？",
+      "sample1Question2": "实现工作与生活平衡的最佳途径是什么？",
+      "sample1Question3": "如何找到我热衷的工作？",
+      "sample2Question1": "如何保持健康的饮食和营养计划？",
+      "sample2Question2": "有效管理压力并促进心理健康的策略有哪些？",
+      "sample2Question3": "如何获得更好的睡眠并提高睡眠质量？",
+      "sample3Question1": "如何训练我的小狗或小猫上厕所？",
+      "sample3Question2": "社交化宠物并确保它们与其他动物相处的最佳方法是什么？",
+      "sample3Question3": "宠物生病或受伤的迹象是什么，何时应该寻求兽医护理？"
+    },
+    "history": {},
+    "assistants": {
+      "type": "关键词用于生成您的个人助手，如技术顾问、投资组合策略师、社交媒体专家、室内设计师。",
+      "messageValidation1": "请输入关键词以继续。"
+    },
+    "language": {},
+    "iap": {
+      "free": "免费积分",
+      "freeDescription": "观看奖励视频以赚取积分。",
+      "earn": "赚取了积分",
+      "earnDescription": "您可以返回继续提问或等待奖励视频，赚取更多积分",
+      "freeLoadingDescription": "您的免费积分即将到来，请稍微等候..."
+    },
+    "askMore": "提问更多"
+  }
+}

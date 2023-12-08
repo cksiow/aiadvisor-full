@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Consulente",
+      "history": "Storia",
+      "assistants": "Assistenti",
+      "language": "Lingua"
+    },
+    "advisor": {
+      "clipboard": "Appunti",
+      "copy": "Messaggio copiato",
+      "type": "Inserisci la tua domanda...",
+      "newMessage": "Nuovo messaggio",
+      "messageValidation1": "Per favore, inserisci una domanda per continuare.",
+      "sampleContext1": "Sono il tuo consulente di carriera e sono qui per aiutarti a navigare nel tuo percorso professionale. Non esitare a fare domande su argomenti come questi, cliccandoci sopra:",
+      "sampleContext2": "Sono il tuo consulente per la salute e il benessere e sono qui per supportare il tuo benessere. Non esitare a farmi domande su questi argomenti, cliccandoci sopra:",
+      "sampleContext3": "Come tuo consulente per gli animali domestici, sono qui per offrirti consigli su tutto ciò che riguarda i tuoi amici pelosi. Non esitare a chiedere informazioni su questi argomenti, cliccandoci sopra:",
+      "sample1Question1": "Come posso creare una rete efficace per avanzare nella mia carriera?",
+      "sample1Question2": "Qual è il modo migliore per raggiungere un equilibrio tra lavoro e vita personale?",
+      "sample1Question3": "Come posso trovare un lavoro che mi appassiona?",
+      "sample2Question1": "Come posso mantenere una dieta sana e un piano alimentare?",
+      "sample2Question2": "Quali sono le strategie efficaci per gestire lo stress e promuovere il benessere mentale?",
+      "sample2Question3": "Come posso dormire meglio e migliorare la qualità del sonno?",
+      "sample3Question1": "Come posso insegnare al mio nuovo cucciolo o gattino a fare i bisogni?",
+      "sample3Question2": "Quali sono i modi migliori per socializzare il mio animale domestico e assicurarmi che viva bene con gli altri animali?",
+      "sample3Question3": "Quali sono i segni di malattia o lesione nel mio animale domestico e quando dovrei cercare cure veterinarie?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Parola chiave utilizzata per generare il tuo assistente personale, come Consulente tecnologico, Stratega di portafoglio, Esperto di social media, Interior Designer.",
+      "messageValidation1": "Per favore, inserisci una parola chiave per continuare."
+    },
+    "language": {},
+    "iap": {
+      "free": "credito gratuito",
+      "freeDescription": "Guarda un video di ricompensa per guadagnare credito.",
+      "earn": "Credito guadagnato",
+      "earnDescription": "Puoi tornare indietro per continuare a fare domande o aspettare un po 'per il video di ricompensa e guadagnare di più.",
+      "freeLoadingDescription": "Il tuo credito gratuito sta arrivando, rimani sintonizzato..."
+    },
+    "askMore": "Fai altre domande"
+  }
+}

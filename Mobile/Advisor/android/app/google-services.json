@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112790215534",
+    "project_id": "ai-advisor-cksiow",
+    "storage_bucket": "ai-advisor-cksiow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112790215534:android:f428b49ead57a303b8ff7f",
+        "android_client_info": {
+          "package_name": "com.cksiow.aiadvisor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVG7tihdDp-0Lx4Q8eUQ7wy1KNWoeJSOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

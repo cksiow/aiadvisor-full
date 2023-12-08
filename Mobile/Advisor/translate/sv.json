@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Rådgivare",
+      "history": "Historik",
+      "assistants": "Assistenter",
+      "language": "Språk"
+    },
+    "advisor": {
+      "clipboard": "Urklipp",
+      "copy": "Meddelande kopierat",
+      "type": "Skriv in din fråga...",
+      "newMessage": "Nytt meddelande",
+      "messageValidation1": "Vänligen skriv in en fråga för att fortsätta.",
+      "sampleContext1": "Jag fungerar som din karriärrådgivare och är här för att hjälpa dig navigera genom din professionella resa. Tveka inte att fråga om något av följande ämnen genom att klicka på dem:",
+      "sampleContext2": "Jag är din hälsa och välbefinnande rådgivare och är här för att stödja ditt välbefinnande. Tveka inte att ställa frågor om följande områden genom att klicka på dem:",
+      "sampleContext3": "Som din djurrådgivare är jag här för att ge vägledning om allt som rör dina pälsklädda vänner. Tveka inte att kontakta mig med frågor om följande ämnen genom att klicka på dem:",
+      "sample1Question1": "Hur kan jag effektivt nätverka för att främja min karriär?",
+      "sample1Question2": "Vad är det bästa sättet att uppnå en balans mellan arbete och privatliv?",
+      "sample1Question3": "Hur kan jag hitta ett jobb som jag brinner för?",
+      "sample2Question1": "Hur kan jag bibehålla en hälsosam diet och näringsplan?",
+      "sample2Question2": "Vilka är effektiva strategier för att hantera stress och främja mental välbefinnande?",
+      "sample2Question3": "Hur kan jag få bättre sömn och förbättra min sömnkvalitet?",
+      "sample3Question1": "Hur tränar jag min nya valp eller kattunge att använda toaletten?",
+      "sample3Question2": "Vad är de bästa sätten att socialisera mitt husdjur och se till att de kommer överens med andra djur?",
+      "sample3Question3": "Vad är tecknen på sjukdom eller skada hos mitt husdjur, och när bör jag söka veterinärvård?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Nyckelord används för att generera din personliga assistent, såsom teknikrådgivare, portföljstrateg, sociala medier-expert, inredningsdesigner.",
+      "messageValidation1": "Vänligen ange nyckelord för att fortsätta."
+    },
+    "language": {},
+    "iap": {
+      "free": "gratis kredit",
+      "freeDescription": "Titta på en belöningsvideo för att tjäna kredit.",
+      "earn": "Förtjänad kredit",
+      "earnDescription": "Du kan gå tillbaka för att fortsätta ställa frågor eller vänta en stund på belöningens video och tjäna mer.",
+      "freeLoadingDescription": "Ditt gratiskredit är på väg, håll dig uppdaterad..."
+    },
+    "askMore": "Ställ Fler Frågor"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "translation": {
+    "menu": {
+      "advisor": "Rådgiver",
+      "history": "Historie",
+      "assistants": "Assistenter",
+      "language": "Språk"
+    },
+    "advisor": {
+      "clipboard": "Utklippstavle",
+      "copy": "Melding kopiert",
+      "type": "Skriv inn spørsmålet ditt...",
+      "newMessage": "Ny melding",
+      "messageValidation1": "Vennligst skriv inn et spørsmål for å fortsette.",
+      "sampleContext1": "Jeg fungerer som din karriererådgiver, og jeg er her for å hjelpe deg med å navigere karriereveien din. Ikke nøl med å spørre om følgende emner ved å klikke på dem:",
+      "sampleContext2": "Jeg er din helse- og velværerådgiver, og jeg er her for å støtte ditt velvære. Ikke nøl med å stille spørsmål om følgende områder ved å klikke på dem:",
+      "sampleContext3": "Som din dyreadvokat er jeg her for å gi veiledning om alt som gjelder dine pelskledde venner. Ikke nøl med å ta kontakt med spørsmål om følgende emner ved å klikke på dem:",
+      "sample1Question1": "Hvordan kan jeg effektivt nettverke for å fremme karrieren min?",
+      "sample1Question2": "Hva er den beste måten å oppnå en arbeidslivsbalanse på?",
+      "sample1Question3": "Hvordan kan jeg finne en jobb jeg er lidenskapelig opptatt av?",
+      "sample2Question1": "Hvordan kan jeg opprettholde en sunn diett og ernæringsplan?",
+      "sample2Question2": "Hva er effektive strategier for å håndtere stress og fremme mental velvære?",
+      "sample2Question3": "Hvordan kan jeg få bedre søvnkvalitet?",
+      "sample3Question1": "Hvordan kan jeg lære opp min nye valp eller kattunge til å bruke do?",
+      "sample3Question2": "Hva er de beste måtene å sosialisere kjæledyret mitt på og sørge for at de kommer overens med andre dyr?",
+      "sample3Question3": "Hva er tegnene på sykdom eller skade hos kjæledyret mitt, og når bør jeg søke veterinærhjelp?"
+    },
+    "history": {},
+    "assistants": {
+      "type": "Nøkkelord brukt for å generere din personlige assistent, for eksempel teknologirådgiver, porteføljestrateg, sosiale medier-ekspert, interiørdesigner.",
+      "messageValidation1": "Vennligst skriv inn nøkkelord for å fortsette."
+    },
+    "language": {},
+    "iap": {
+      "free": "gratis kreditt",
+      "freeDescription": "Se en belønningsvideo for å tjene kreditt.",
+      "earn": "Opptjent kreditt",
+      "earnDescription": "Du kan gå tilbake for å fortsette å stille spørsmål eller vente en stund på belønningsvideoen og tjene mer.",
+      "freeLoadingDescription": "Den gratis kreditten din er på vei, hold deg oppdatert..."
+    },
+    "askMore": "Still Flere Spørsmål"
+  }
+}
