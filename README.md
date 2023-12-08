@@ -6,7 +6,7 @@ AI Advisor full source code for BE/FE
 ### 3. Start AIAdvisorApplication will do
 
 ## How to run FE
-running
+run
 ```
 npm install
 ```
